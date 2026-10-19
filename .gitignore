@@ -1,0 +1,21 @@
+## Archivos generados por la compilacion / herramientas
+bin/
+obj/
+*.user
+
+## Base de datos local de SQLite (no debe subirse al repositorio)
+*.db
+*.db-shm
+*.db-wal
+
+## Configuracion local con secretos (opcional)
+appsettings.Local.json
+.env
+
+## Visual Studio / VS Code
+.vs/
+*.suo
+
+## Sistema operativo
+.DS_Store
+Thumbs.db
